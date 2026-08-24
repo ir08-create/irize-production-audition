@@ -1,0 +1,6 @@
+{
+  "name": "名古屋 メンズアイドルオーディション | IRIZE PRODUCTION",
+  "description": "IRIZE PRODUCTIONが主催する名古屋メンズアイドルオーディション特設サイト。エレガント・ダークデザインによる募集要項とエントリー情報。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
