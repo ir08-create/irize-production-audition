@@ -33,7 +33,7 @@ export const ConceptSection: React.FC = () => {
                 グループのコンセプトは、<span className="text-[#00f2ff] font-bold">合格者の皆様との話し合いを通して</span>決めていきたいと考えています。
               </p>
               <p className="text-[#e0e0e0]/85 text-xs sm:text-sm">
-                現時点では、<strong className="text-white font-bold">パフォーマンス力が高く</strong>、<strong className="text-white font-bold">個性が輝き</strong>、<strong className="text-[#00f2ff] font-bold">見ている人を元気にできるグループ（7人組想定）</strong>を目指しています。
+                現時点では、<strong className="text-white font-bold">疾走感のある</strong>、<strong className="text-white font-bold">アップテンポで</strong>、<strong className="text-[#00f2ff] font-bold">かっこいい曲を基調としたグループ（7人組想定）</strong>を目指しています。
               </p>
               <div className="pt-2 flex flex-wrap gap-1.5 sm:gap-2 text-[11px] sm:text-xs">
                 <span className="px-2.5 py-1 bg-[#161616] border border-[#222222] text-[#00f2ff] font-semibold">
