@@ -86,7 +86,7 @@ export const ContactSection: React.FC = () => {
           {/* Period Reminder Footnote */}
           <div className="mt-6 sm:mt-8 pt-5 sm:pt-6 border-t border-[#222222] flex items-center justify-center gap-2 text-xs text-[#888888]">
             <Calendar className="w-3.5 h-3.5 text-[#00f2ff]" />
-            <span>エントリー期間：<strong className="text-white">8/24（月）〜 9/30（水）</strong></span>
+            <span>エントリー期間：<strong className="text-white">8/24（月）〜 11/30（月）</strong></span>
           </div>
         </div>
       </div>
