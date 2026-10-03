@@ -46,7 +46,7 @@ export const HeroSection: React.FC = () => {
 
             {/* Entry Period Badge */}
             <div className="mt-4 inline-block bg-[#00f2ff] text-black px-4 py-2 font-bold text-xs sm:text-sm tracking-widest uppercase shadow-[0_0_25px_rgba(0,242,255,0.5)]">
-              ENTRY PERIOD: 8/24（月）〜 9/30（水）
+              ENTRY PERIOD: 8/24（月）〜 11/30（月）
             </div>
           </div>
         </div>
@@ -62,7 +62,7 @@ export const HeroSection: React.FC = () => {
               <div className="text-xl sm:text-2xl font-display font-bold text-white tracking-wide">
                 8/24<span className="text-sm font-normal text-[#888888] mx-1">（月）</span>
                 <span className="text-[#00f2ff] mx-2">〜</span>
-                9/30<span className="text-sm font-normal text-[#888888] mx-1">（水）</span>
+                11/30<span className="text-sm font-normal text-[#888888] mx-1">（月）</span>
               </div>
             </div>
 
